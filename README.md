@@ -1,1 +1,1 @@
-[![@jlosito's Holopin board](https://holopin.me/kochie)](https://holopin.io/@jlosito)
+[![@jlosito's Holopin board](https://holopin.me/jlosito)](https://holopin.io/@jlosito)
