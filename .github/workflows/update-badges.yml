@@ -10,9 +10,11 @@ on:
 jobs:
   update-readme:
     name: Update Readme with badges
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04
     steps:
       - name: Badges - Readme
-        uses: pemtajo/badge-readme@main
+        uses: pemtajo/badge-readme@2.3.0
         with:
+          # View Profile -> Share my pofile
+          # https://www.credly.com/users/john-losito.52572100
           CREDLY_USER: "john-losito.52572100"
