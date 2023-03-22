@@ -18,3 +18,4 @@ jobs:
           # View Profile -> Share my pofile
           # https://www.credly.com/users/john-losito.52572100
           CREDLY_USER: "john-losito.52572100"
+          CREDLY_SORT: "POPULAR"
