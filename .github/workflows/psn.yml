@@ -12,7 +12,7 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Install deps
-        run: npm install ./.github/actions/psn-readme/package.json
+        run: npm install ./.github/actions/psn-readme/
 
       - name: psn
         uses: ./.github/actions/psn-readme
