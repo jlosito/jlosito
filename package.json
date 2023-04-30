@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "psn-readme": "file:.github/actions/psn-readme"
+  }
+}
