@@ -1,2 +1,6 @@
 .github/actions/psn-readme/node_modules/
+
+# from EndBug/add-and-commit action
 node_modules/
+package.json
+package-lock.json
