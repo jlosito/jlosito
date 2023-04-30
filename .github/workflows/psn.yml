@@ -1,0 +1,29 @@
+---
+name: PSN
+
+on: push
+
+jobs:
+  psn:
+    name: Update Readme with PSN
+    runs-on: ubuntu-22.04
+    steps:
+      - name: checkout
+        uses: actions/checkout@v3
+
+      - name: Install deps
+        run: npm install ./.github/actions/psn-readme/
+
+      - name: print dir
+        run: ls -la
+
+      - name: psn
+        uses: ./.github/actions/psn-readme
+        with:
+          NPSSO: ${{ secrets.NPSSO }}
+
+      - name: check file
+        run: cat ./README.md
+
+      - name: push
+        uses: EndBug/add-and-commit@v9
