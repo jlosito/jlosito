@@ -15,7 +15,7 @@ jobs:
         run: npm install ./.github/actions/psn-readme/
 
       - name: print dir
-        run: ls -la ../../../
+        run: ls -la
 
       - name: psn
         uses: ./.github/actions/psn-readme
