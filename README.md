@@ -12,5 +12,5 @@
 
 ### PlayStation Trophies
 <!--START_SECTION:psn-->
-Platinum: 4
+Platinum: 3
 <!--END_SECTION:psn-->
