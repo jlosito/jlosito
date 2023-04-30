@@ -26,4 +26,4 @@ jobs:
         run: cat ./README.md
 
       - name: push
-        uses: github-actions-x/commit@v2.9
+        uses: EndBug/add-and-commit@v9
