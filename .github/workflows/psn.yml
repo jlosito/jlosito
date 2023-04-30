@@ -1,7 +1,12 @@
 ---
 name: PSN
 
-on: push
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    # Runs at 0am UTC every day
+    - cron: "0 0 * * *"
 
 jobs:
   psn:
@@ -9,15 +14,12 @@ jobs:
     runs-on: ubuntu-22.04
     steps:
       - name: checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v3.5.2
 
       - name: psn
         uses: sleeping-winds/psn-trophies-action@v0.1.2
         with:
           NPSSO: ${{ secrets.NPSSO }}
 
-      - name: check file
-        run: cat ./README.md
-
       - name: push
-        uses: EndBug/add-and-commit@v9
+        uses: EndBug/add-and-commit@v9.1.2
