@@ -1,9 +1,6 @@
 ---
 name: PSN
 
-on:
-  workflow_dispatch:
-
 jobs:
   psn:
     name: Update Readme with PSN
