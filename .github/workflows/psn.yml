@@ -1,6 +1,8 @@
 ---
 name: PSN
 
+on: push
+
 jobs:
   psn:
     name: Update Readme with PSN
