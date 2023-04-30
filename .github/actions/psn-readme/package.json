@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "psn-api": "2.9.0"
+    "psn-api": "2.9.0",
+    "@actions/core": "1.10.0"
   }
 }

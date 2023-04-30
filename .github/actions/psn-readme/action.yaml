@@ -1,0 +1,13 @@
+---
+name: "PSN Trophies"
+author: "John Losito"
+description: "Adds your PlayStation Trophies to your README"
+
+inputs:
+  NPSSO:
+    description: "Playstation auth token"
+    required: true
+
+runs:
+  using: 'node16'
+  main: 'index.js'

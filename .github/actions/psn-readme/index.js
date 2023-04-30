@@ -1,10 +1,11 @@
 const psn = require("psn-api");
 const fs = require("fs");
+const core = require("@actions/core");
 
 async function main() {
   // First Signin: https://www.playstation.com/en-us/
   // Then visit: https://ca.account.sony.com/api/v1/ssocookie
-  const myNpsso = ""
+  const myNpsso = core.getInput("NPSSO");
   const startComment = "<!--START_SECTION:psn-->"
   const endComment = "<!--END_SECTION:psn-->"
   const readmePath = '../../../README.md'

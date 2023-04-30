@@ -1,0 +1,15 @@
+---
+name: PSN
+
+on:
+  workflow_dispatch:
+
+jobs:
+  psn:
+    name: Update Readme with PSN
+    runs-on: ubuntu-22.04
+    steps:
+      - name: psn
+        uses: ./.github/actions/psn-readme
+        with:
+          NPSSO: ${{ secrets.NPSSO }}
