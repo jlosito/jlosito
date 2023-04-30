@@ -24,3 +24,6 @@ jobs:
 
       - name: check file
         run: cat ./README.md
+
+      - name: push
+        uses: github-actions-x/commit@v2.9
