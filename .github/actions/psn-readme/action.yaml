@@ -7,6 +7,10 @@ inputs:
   NPSSO:
     description: "Playstation auth token"
     required: true
+  README_PATH:
+    description: "Path to the readme file"
+    required: false
+    default: "./README.md"
 
 runs:
   using: 'node16'

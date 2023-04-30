@@ -8,7 +8,7 @@ async function main() {
   const myNpsso = core.getInput("NPSSO");
   const startComment = "<!--START_SECTION:psn-->"
   const endComment = "<!--END_SECTION:psn-->"
-  const readmePath = '../../../README.md'
+  const readmePath = core.getInput("README_PATH");
   
   // We'll exchange your NPSSO for a special access code.
   const accessCode = await psn.exchangeNpssoForCode(myNpsso);
