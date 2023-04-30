@@ -21,3 +21,6 @@ jobs:
         uses: ./.github/actions/psn-readme
         with:
           NPSSO: ${{ secrets.NPSSO }}
+
+      - name: check file
+        run: cat ./README.md
