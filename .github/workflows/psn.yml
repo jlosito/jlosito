@@ -22,4 +22,4 @@ jobs:
           NPSSO: ${{ secrets.NPSSO }}
 
       - name: push
-        uses: EndBug/add-and-commit@v9.1.2
+        uses: EndBug/add-and-commit@v9.1.3
