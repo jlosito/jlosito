@@ -9,6 +9,7 @@
 [![Well-Architected Proficient](https://images.credly.com/size/110x110/images/b870667f-00a3-48d7-b988-9c02b441b883/image.png)](http://www.credly.com/badges/ae7796a4-bffc-4e30-b2c6-b2e6c68aa4ce "Well-Architected Proficient")
 [![AWS Cloud Quest: Solutions Architect](https://images.credly.com/size/110x110/images/9e9e7ef7-384f-4636-8743-1b89a68fb46b/image.png)](http://www.credly.com/badges/207bf70d-2ccf-4bc6-9a16-1cd337014791 "AWS Cloud Quest: Solutions Architect")
 [![LFC191: Open Source Licensing Basics for Software Developers](https://images.credly.com/size/110x110/images/4c76f677-fd18-4d7b-aec9-591123bfcc9a/Training_Badges_Master_osbestpractices.png)](http://www.credly.com/badges/c0dd2299-ce3b-46c4-bd8c-563c73fd1e32 "LFC191: Open Source Licensing Basics for Software Developers")
+[![AWS Cloud Quest: Security](https://images.credly.com/size/110x110/images/e66468bd-5a58-4136-8fb5-994e13501cf5/image.png)](http://www.credly.com/badges/7530fc32-962f-4f0e-8d51-8baa41e38e9f "AWS Cloud Quest: Security")
 <!--END_SECTION:badges-->
 
 ### PlayStation Trophies
