@@ -16,6 +16,7 @@
 [![Developer Essentials](https://api.badgr.io/public/assertions/mmKhpGzoShGxAXjhG7xhHw/image)](https://api.badgr.io/public/assertions/mmKhpGzoShGxAXjhG7xhHw?identity__email=lositojohnj%40gmail.com)
 [![Quickstarts](https://api.badgr.io/public/assertions/2ckDJdKFQ6Khisw6nqv1Gg/image)](https://api.badgr.io/public/assertions/2ckDJdKFQ6Khisw6nqv1Gg?identity__email=lositojohnj%40gmail.com)
 [![Infrastructure Automation](https://api.badgr.io/public/assertions/ed5S4UteQsKdhAX5sPQJ8A/image)](https://api.badgr.io/public/assertions/ed5S4UteQsKdhAX5sPQJ8A?identity__email=lositojohnj%40gmail.com)
+<iframe src="https://api.badgr.io/public/assertions/bWi9zQe2QOmZSE5svPERew?embedVersion=1&amp;embedWidth=330&amp;embedHeight=191&amp;identity__email=lositojohnj%40gmail.com" title="Badge: Chef Principles Award" style="width: 330px; height: 191px; border: 0px;"></iframe>
 [![Chef on Microsoft Azure](https://api.badgr.io/public/assertions/zJ4Fu3epSLaSVO2A1OEiuA/image)](https://api.badgr.io/public/assertions/zJ4Fu3epSLaSVO2A1OEiuA?identity__email=lositojohnj%40gmail.com)
 [![Becoming a Part of the Chef Community](https://api.badgr.io/public/assertions/bdChpMSkRp6Zg0-6KDzcjg/image)](https://api.badgr.io/public/assertions/bdChpMSkRp6Zg0-6KDzcjg?identity__email=lositojohnj%40gmail.com)
 
