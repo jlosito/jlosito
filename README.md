@@ -12,15 +12,7 @@
 [![AWS Cloud Quest: Security](https://images.credly.com/size/110x110/images/e66468bd-5a58-4136-8fb5-994e13501cf5/image.png)](http://www.credly.com/badges/7530fc32-962f-4f0e-8d51-8baa41e38e9f "AWS Cloud Quest: Security")
 <!--END_SECTION:badges-->
 <img src="https://www.modelizeit.com/img/modelizeIT-badge-certified-PRACTITIONER.png" width="100" height="100" alt="modelizeIT Certified Practitioner">
-<a href="https://api.badgr.io/public/assertions/bWi9zQe2QOmZSE5svPERew?identity__email=lositojohnj%40gmail.com"><img src="https://api.badgr.io/public/assertions/1Urc6sIwSKOIF50EgulmRw/image" width="100" height="100" alt="DevOps Transformation"></a>
-
-[![DevOps Transformation](https://api.badgr.io/public/assertions/1Urc6sIwSKOIF50EgulmRw/image)](https://api.badgr.io/public/assertions/1Urc6sIwSKOIF50EgulmRw?identity__email=lositojohnj%40gmail.com)
-[![Developer Essentials](https://api.badgr.io/public/assertions/mmKhpGzoShGxAXjhG7xhHw/image)](https://api.badgr.io/public/assertions/mmKhpGzoShGxAXjhG7xhHw?identity__email=lositojohnj%40gmail.com)
-[![Quickstarts](https://api.badgr.io/public/assertions/2ckDJdKFQ6Khisw6nqv1Gg/image)](https://api.badgr.io/public/assertions/2ckDJdKFQ6Khisw6nqv1Gg?identity__email=lositojohnj%40gmail.com)
-[![Infrastructure Automation](https://api.badgr.io/public/assertions/ed5S4UteQsKdhAX5sPQJ8A/image)](https://api.badgr.io/public/assertions/ed5S4UteQsKdhAX5sPQJ8A?identity__email=lositojohnj%40gmail.com)
-[![Chef on Microsoft Azure](https://api.badgr.io/public/assertions/zJ4Fu3epSLaSVO2A1OEiuA/image)](https://api.badgr.io/public/assertions/zJ4Fu3epSLaSVO2A1OEiuA?identity__email=lositojohnj%40gmail.com)
-[![Becoming a Part of the Chef Community](https://api.badgr.io/public/assertions/bdChpMSkRp6Zg0-6KDzcjg/image)](https://api.badgr.io/public/assertions/bdChpMSkRp6Zg0-6KDzcjg?identity__email=lositojohnj%40gmail.com)
-[![Chef Principles](https://api.badgr.io/public/assertions/bWi9zQe2QOmZSE5svPERew/image)](https://api.badgr.io/public/assertions/bWi9zQe2QOmZSE5svPERew?identity__email=lositojohnj%40gmail.com)
+<a href="https://api.badgr.io/public/assertions/bWi9zQe2QOmZSE5svPERew?identity__email=lositojohnj%40gmail.com"><img src="https://api.badgr.io/public/assertions/bWi9zQe2QOmZSE5svPERew/image" width="100" height="100" alt="Chef Principles"></a>
 
 ### PlayStation Trophies
 <!--START_SECTION:psn-->
