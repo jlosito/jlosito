@@ -12,6 +12,7 @@
 [![AWS Cloud Quest: Security](https://images.credly.com/size/110x110/images/e66468bd-5a58-4136-8fb5-994e13501cf5/image.png)](http://www.credly.com/badges/7530fc32-962f-4f0e-8d51-8baa41e38e9f "AWS Cloud Quest: Security")
 <!--END_SECTION:badges-->
 <img src="https://www.modelizeit.com/img/modelizeIT-badge-certified-PRACTITIONER.png" width="200" height="200">
+
 ![modelizeIT Certified Practitioner](https://www.modelizeit.com/img/modelizeIT-badge-certified-PRACTITIONER.png)
 [![DevOps Transformation](https://api.badgr.io/public/assertions/1Urc6sIwSKOIF50EgulmRw/image)](https://api.badgr.io/public/assertions/1Urc6sIwSKOIF50EgulmRw?identity__email=lositojohnj%40gmail.com)
 [![Developer Essentials](https://api.badgr.io/public/assertions/mmKhpGzoShGxAXjhG7xhHw/image)](https://api.badgr.io/public/assertions/mmKhpGzoShGxAXjhG7xhHw?identity__email=lositojohnj%40gmail.com)
