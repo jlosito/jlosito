@@ -11,7 +11,7 @@
 [![LFC191: Open Source Licensing Basics for Software Developers](https://images.credly.com/size/110x110/images/4c76f677-fd18-4d7b-aec9-591123bfcc9a/Training_Badges_Master_osbestpractices.png)](http://www.credly.com/badges/c0dd2299-ce3b-46c4-bd8c-563c73fd1e32 "LFC191: Open Source Licensing Basics for Software Developers")
 [![AWS Cloud Quest: Security](https://images.credly.com/size/110x110/images/e66468bd-5a58-4136-8fb5-994e13501cf5/image.png)](http://www.credly.com/badges/7530fc32-962f-4f0e-8d51-8baa41e38e9f "AWS Cloud Quest: Security")
 <!--END_SECTION:badges-->
-<img src="https://www.modelizeit.com/img/modelizeIT-badge-certified-PRACTITIONER.png" width="200" height="200">
+<img src="https://www.modelizeit.com/img/modelizeIT-badge-certified-PRACTITIONER.png" width="50" height="50">
 
 ![modelizeIT Certified Practitioner](https://www.modelizeit.com/img/modelizeIT-badge-certified-PRACTITIONER.png)
 [![DevOps Transformation](https://api.badgr.io/public/assertions/1Urc6sIwSKOIF50EgulmRw/image)](https://api.badgr.io/public/assertions/1Urc6sIwSKOIF50EgulmRw?identity__email=lositojohnj%40gmail.com)
