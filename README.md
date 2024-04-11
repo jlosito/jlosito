@@ -12,6 +12,7 @@
 [![LFC191: Open Source Licensing Basics for Software Developers](https://images.credly.com/size/110x110/images/4c76f677-fd18-4d7b-aec9-591123bfcc9a/Training_Badges_Master_osbestpractices.png)](http://www.credly.com/badges/c0dd2299-ce3b-46c4-bd8c-563c73fd1e32 "LFC191: Open Source Licensing Basics for Software Developers")
 [![AWS Cloud Quest: Serverless Developer](https://images.credly.com/size/110x110/images/9a2fd02b-52ab-448d-9d19-fd9b68efe1f6/image.png)](http://www.credly.com/badges/dede9585-4e10-4b18-ba63-ff481f492fa5 "AWS Cloud Quest: Serverless Developer")
 [![AWS Cloud Quest: Security](https://images.credly.com/size/110x110/images/e66468bd-5a58-4136-8fb5-994e13501cf5/image.png)](http://www.credly.com/badges/7530fc32-962f-4f0e-8d51-8baa41e38e9f "AWS Cloud Quest: Security")
+[![AWS Cloud Quest: Networking](https://images.credly.com/size/110x110/images/c483e5e6-580a-4ed8-b4b6-91219526a326/image.png)](http://www.credly.com/badges/0f1d67ef-a2a8-442b-9508-049d3d6b5781 "AWS Cloud Quest: Networking")
 <!--END_SECTION:badges-->
 
 <img src="https://www.modelizeit.com/img/modelizeIT-badge-certified-PRACTITIONER.png" width="100" height="100" alt="modelizeIT Certified Practitioner">
