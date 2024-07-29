@@ -16,7 +16,7 @@
 <!--END_SECTION:badges-->
 
 <img src="https://www.modelizeit.com/img/modelizeIT-badge-certified-PRACTITIONER.png" width="100" height="100" alt="modelizeIT Certified Practitioner">
-<a href="https://api.badgr.io/public/assertions/bWi9zQe2QOmZSE5svPERew?identity__email=lositojohnj%40gmail.com"><img src="https://api.badgr.io/public/assertions/bWi9zQe2QOmZSE5svPERew/image" width="100" height="100" alt="Chef Principles"></a>
+<a href="https://badgr.com/public/assertions/bWi9zQe2QOmZSE5svPERew?identity__email=lositojohnj@gmail.com"><img src="https://media.badgr.com/uploads/badges/assertion-bWi9zQe2QOmZSE5svPERew.png" width="100" height="100" alt="Chef Principles"></a>
 </div>
 
 ### PlayStation Trophies
