@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-22.04
     steps:
       - name: Badges - Readme
-        uses: pemtajo/badge-readme@2.4.0
+        uses: pemtajo/badge-readme@2.3.0
         with:
           # View Profile -> Share my pofile
           # https://www.credly.com/users/john-losito.52572100
