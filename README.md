@@ -12,6 +12,7 @@
 [![AWS Cloud Quest: Serverless Developer](https://images.credly.com/size/110x110/images/9a2fd02b-52ab-448d-9d19-fd9b68efe1f6/image.png)](http://www.credly.com/badges/dede9585-4e10-4b18-ba63-ff481f492fa5 "AWS Cloud Quest: Serverless Developer")
 [![LFC191: Open Source Licensing Basics for Software Developers](https://images.credly.com/size/110x110/images/41a3cf24-4d1e-4b96-8be8-07afb53aa6f8/image.png)](http://www.credly.com/badges/c0dd2299-ce3b-46c4-bd8c-563c73fd1e32 "LFC191: Open Source Licensing Basics for Software Developers")
 [![AWS Cloud Quest: Security](https://images.credly.com/size/110x110/images/e66468bd-5a58-4136-8fb5-994e13501cf5/image.png)](http://www.credly.com/badges/7530fc32-962f-4f0e-8d51-8baa41e38e9f "AWS Cloud Quest: Security")
+[![AWS Cloud Quest: Data Analytics](https://images.credly.com/size/110x110/images/2cd965b0-5f5d-4510-ab05-cfa2f80342a1/image.png)](http://www.credly.com/badges/f3b44865-d4d1-4187-98db-b7820735bd98 "AWS Cloud Quest: Data Analytics")
 [![AWS Cloud Quest: Machine Learning](https://images.credly.com/size/110x110/images/d85070dc-b233-4848-9db4-c55319435b67/image.png)](http://www.credly.com/badges/d466735e-cc8f-4edb-bb38-e71f9e43479f "AWS Cloud Quest: Machine Learning")
 [![AWS Cloud Quest: Networking](https://images.credly.com/size/110x110/images/c483e5e6-580a-4ed8-b4b6-91219526a326/image.png)](http://www.credly.com/badges/0f1d67ef-a2a8-442b-9508-049d3d6b5781 "AWS Cloud Quest: Networking")
 <!--END_SECTION:badges-->
