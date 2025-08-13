@@ -18,7 +18,7 @@
 <a href="https://www.credly.com/badges/5c2476a3-b624-4c74-b116-d9a00c9afc46" title="AWS Certified SysOps Administrator – Associate"><img src="https://images.credly.com/size/80x80/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" alt="AWS Certified SysOps Administrator – Associate" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/eeba9828-06ec-4923-bf0b-a42e071735fb" title="AWS Certified Solutions Architect – Associate"><img src="https://images.credly.com/size/80x80/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/c0dd2299-ce3b-46c4-bd8c-563c73fd1e32" title="LFC191: Open Source Licensing Basics for Software Developers"><img src="https://images.credly.com/size/80x80/images/e80f8a97-fb95-4b3d-b272-4b955b9f4025/blob" alt="LFC191: Open Source Licensing Basics for Software Developers" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/dbde44e9-d49e-42c2-9005-30fc38656a4f" title="HashiCorp Certified: Terraform Associate (003)"><img src="https://images.credly.com/size/80x80/images/ed4be915-68f8-428a-b332-40ded9084ee5/blob" alt="HashiCorp Certified: Terraform Associate (003)" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/dbde44e9-d49e-42c2-9005-30fc38656a4f" title="HashiCorp Certified: Terraform Associate (003)"><img src="https://images.credly.com/size/80x80/images/0dc62494-dc94-469a-83af-e35309f27356/blob" alt="HashiCorp Certified: Terraform Associate (003)" width="80" height="80"></a>
 <!--END_SECTION:badges-->
 
 <img src="https://www.modelizeit.com/img/modelizeIT-badge-certified-PRACTITIONER.png" width="100" height="100" alt="modelizeIT Certified Practitioner">
