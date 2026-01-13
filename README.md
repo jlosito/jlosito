@@ -2,7 +2,7 @@
 
 <div>
 <!--START_SECTION:badges-->
-<a href="https://www.credly.com/badges/82dc3af0-f920-4efc-a501-ba0aa977dfcb" title="AWS Generative AI Foundational (L100)"><img src="https://images.credly.com/size/80x80/images/8b33b26f-c8ef-47c5-9aa8-44930e6af44a/blob" alt="AWS Generative AI Foundational (L100)" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/82dc3af0-f920-4efc-a501-ba0aa977dfcb" title="AWS AI Foundational (L100)"><img src="https://images.credly.com/size/80x80/images/97c269f6-c8d0-40bd-8cbc-5c7834dbbc91/blob" alt="AWS AI Foundational (L100)" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/327e9e11-e0fb-4a8f-adac-776127a831f0" title="AWS Certified Machine Learning Engineer – Associate"><img src="https://images.credly.com/size/80x80/images/1a634b4e-3d6b-4a74-b118-c0dcb429e8d2/image.png" alt="AWS Certified Machine Learning Engineer – Associate" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/4a593b95-ebf9-4c8e-bc77-912fb4a3e056" title="AWS Certified Security – Specialty"><img src="https://images.credly.com/size/80x80/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png" alt="AWS Certified Security – Specialty" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/72556319-8360-49a9-bba9-d55ad5af2069" title="AWS Certified Developer – Associate"><img src="https://images.credly.com/size/80x80/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="AWS Certified Developer – Associate" width="80" height="80"></a>
